@@ -1,3 +1,3 @@
 # TextToWav
-Simplist text to wav app
+Simplest text to wav app
 
